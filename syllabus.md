@@ -1,3 +1,6 @@
+---
+output: word_document
+---
 ###MICRBIOL 612:  Microbial Informatics
 
 **Instructor:**  Patrick D. Schloss, PhD  
@@ -30,8 +33,11 @@ Students **should** obtain the following books:
 
 >Chacon, S (__*2010*__). [ProGit](http://git-scm.com/book).
 
-####Additional materials. 
-Supplemental YouTube videos and online tutorials will be assigned.
+####Additional materials.  
+Supplemental YouTube videos  
+[(http://img.youtube.com/vi/0fKg7e37bQE/0.jpg)](http://www.youtube.com/watch?v=0fKg7e37bQE)  
+and online tutorials will be assigned.
  
-####Software. 
+####Software.
 You will need to install [R](http://cran.r-project.org/bin/windows/base/) and [Rstudio](http://www.rstudio.com/products/rstudio/download/)
+
