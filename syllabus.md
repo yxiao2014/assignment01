@@ -16,9 +16,10 @@ Increasingly, microbiologists are generating large and varied datasets that must
 ####Course structure.  
 Microbial Informatics will consist of two hours of lecture per week plus a two-hour hands on computer session.  The lectures will present the theory behind concepts and the computer sessions will allow students to complete exercises in pairs.  The first half of the course will emphasize R’s statistical foundation and the second half will introduce students to computer programming using R.  In each half, students will complete a project.  For the first half, students will analyze some element of data from their research using concepts that were covered in class.  In the second half, students will create an R-based program to address a biological question; it is hoped that the biological question is related to the students’ research.  Students are expected to provide their own laptop computers – Mac and Windows are acceptable.  We will install [R](http://cran.r-project.org/bin/windows/base/) and [Rstudio] (http://www.rstudio.com/products/rstudio/download/)during the first class.
 
-Grading.  Grades will be assigned based on students’ performance in the Friday laboratories (50%) and the two projects (25% each). The first project will require students to recreate a data analysis from one of their lab’s recent publications. The second project will require students to create a package to perform a useful function that their laboratory will benefit from.
+####Grading.  
+Grades will be assigned based on students’ performance in the Friday laboratories (*50%*) and the two projects (*25%* each). The first project will require students to recreate a data analysis from one of their lab’s recent publications. The second project will require students to create a package to perform a useful function that their laboratory will benefit from.
 
-Text books.  Students should obtain the following books:
+####Text books.  Students **should** obtain the following books:
 
 Buffalo, V (2014). Bioinformatics Data Skills.
 
